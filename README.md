@@ -1,4 +1,4 @@
-![GitHub Logo](https://raw.githubusercontent.com/InjexCore/Injex/master/share/pixmaps/injex128.png "Injex")
+![GitHub Logo](https://raw.githubusercontent.com/InjexCore/Injex/master/src/qt/res/icons/bitcoin.png "Injex")
 
 Injex Core v0.12.2.4 (INJ)
 ===============================
