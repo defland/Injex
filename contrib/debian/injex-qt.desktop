@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Injex
+Comment=Injex P2P Cryptocurrency
+Exec=injex-qt %u
+Terminal=false
+Type=Application
+Icon=injex128
+MimeType=x-scheme-handler/injex;
+Categories=Office;Finance;
+Name[en_US]=injex-qt.desktop

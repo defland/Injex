@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/injex_bg.qm</file>
+        <file alias="de">locale/injex_de.qm</file>
+        <file alias="en">locale/injex_en.qm</file>
+        <file alias="es">locale/injex_es.qm</file>
+        <file alias="fi">locale/injex_fi.qm</file>
+        <file alias="fr">locale/injex_fr.qm</file>
+        <file alias="it">locale/injex_it.qm</file>
+        <file alias="ja">locale/injex_ja.qm</file>
+        <file alias="pl">locale/injex_pl.qm</file>
+        <file alias="pt">locale/injex_pt.qm</file>
+        <file alias="ru">locale/injex_ru.qm</file>
+        <file alias="sk">locale/injex_sk.qm</file>
+        <file alias="sv">locale/injex_sv.qm</file>
+        <file alias="vi">locale/injex_vi.qm</file>
+        <file alias="zh_CN">locale/injex_zh_CN.qm</file>
+        <file alias="zh_TW">locale/injex_zh_TW.qm</file>
+    </qresource>
+</RCC>
