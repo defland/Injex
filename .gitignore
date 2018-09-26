@@ -77,7 +77,6 @@ libconftest.dylib*
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
 injex-qt
 Injex-Qt.app
 # Unit-tests
