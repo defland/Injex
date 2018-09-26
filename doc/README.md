@@ -24,9 +24,9 @@ Drag Injex-Qt to your applications folder, and then run Injex-Qt.
 
 ### Need Help?
 
-* See the [Injex documentation](https://injexcoin.atlassian.net/wiki/display/DOC)
+* See the [Injex documentation](https://InjexCore.atlassian.net/wiki/display/DOC)
 for help and more information.
-* Ask for help on [#injexcoin](http://webchat.freenode.net?channels=injex) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=injex).
+* Ask for help on [#InjexCore](http://webchat.freenode.net?channels=injex) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=injex).
 * Ask for help on [Discord](http://discord.injex.network) server.
 
 Building
@@ -58,7 +58,7 @@ The Injex Core repo's [root README](/README.md) contains relevant information on
 
 ### Resources
 * Discuss on the [Discord](http://discord.injex.network) server, in the #development channel.
-* Discuss on [#injexcoin](http://webchat.freenode.net/?channels=injex) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=injex).
+* Discuss on [#InjexCore](http://webchat.freenode.net/?channels=injex) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=injex).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

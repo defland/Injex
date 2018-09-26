@@ -3,7 +3,7 @@ Construct a linear, no-fork, best version of the blockchain.
 
 ## Step 0: Install injex_hash
 
-https://github.com/injexcoin/injex_hash
+https://github.com/InjexCore/injex_hash
 
 ## Step 1: Download hash list
 

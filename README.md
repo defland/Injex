@@ -3,7 +3,7 @@
 Injex Core v0.12.2.4 (INJ)
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/InjexCore/Injex.svg?branch=master)](https://travis-ci.org/InjexCore/Injex) `develop:` [![Build Status](https://travis-ci.org/InjexCore/Injex.svg?branch=develop)](https://travis-ci.org/InjexCore/Injex/branches)
+`master:` [![Build Status](https://travis-ci.org/InjexCore/Injex.svg?branch=master)](https://travis-ci.org/InjexCore/Injex)
 
 https://injex.io
 

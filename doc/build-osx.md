@@ -40,7 +40,7 @@ NOTE: Building with Qt4 is still supported, however, doing so could result in a 
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
-        git clone https://github.com/injexcoin/injex.git
+        git clone https://github.com/InjexCore/injex.git
         cd injex
 
 2.  Build Injex Core:

@@ -3,13 +3,13 @@ Injex Core version 0.12.2
 
 Release is now available from:
 
-  <https://github.com/injexcoin/injex/releases>
+  <https://github.com/InjexCore/injex/releases>
 
 This is a new major version release, bringing new features and other improvements.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/injexcoin/injex/issues>
+  <https://github.com/InjexCore/injex/issues>
 
 Upgrading and downgrading
 =========================
@@ -41,7 +41,7 @@ DIP0001
 
 We outline an initial scaling mechanism for Injex. After deployment and activation, Injex will be able to handle double the transactions it can currently handle. Together with the faster block times, Injex we will be prepared to handle eight times the traffic of Bitcoin.
 
-https://github.com/injexcoin/dips/blob/master/dip-0001.md
+https://github.com/InjexCore/dips/blob/master/dip-0001.md
 
 
 Fee reduction
@@ -58,7 +58,7 @@ RPC changes
 -----------
 
 There are few changes in existing RPC in this release:
-- There is no more `bcconfirmations` field in RPC output and `confirmations` shows blockchain only confirmations by default now. You can change this behaviour by switching new `addlockconf` param to `true`. There is a new rpc field `instantlock` which indicates whether a given transaction is locked via InstantSend. For more info and examples please see https://github.com/injexcoin/injex/doc/instantsend.md;
+- There is no more `bcconfirmations` field in RPC output and `confirmations` shows blockchain only confirmations by default now. You can change this behaviour by switching new `addlockconf` param to `true`. There is a new rpc field `instantlock` which indicates whether a given transaction is locked via InstantSend. For more info and examples please see https://github.com/InjexCore/injex/doc/instantsend.md;
 - `gobject list` and `gobject diff` accept `funding`, `delete` and `endorsed` filtering options now, in addition to `valid` and `all` currently available;
 - `vin` field in `masternode` commands is renamed to `outpoint` and shows data in short format now;
 - `getblocktemplate` output is extended with versionbits-related information;
@@ -313,7 +313,7 @@ This release includes experimental implementation of BIP39/BIP44 compatible HD w
 ### Other (technical) commits:
 - [`1a528d945`] bump to 0.12.2.0 (#1407)
 - [`b815a7b6a`] Merge remote-tracking branch 'remotes/origin/master' into v0.12.2.x
-- [`7a5943c3a`] Merge pull request #1431 from injexcoin/v0.12.2.x-merge_upstream
+- [`7a5943c3a`] Merge pull request #1431 from InjexCore/v0.12.2.x-merge_upstream
 - [`8bbcf6200`] Fixed pow (test and algo) (#1415)
 - [`f3b92a95d`] c++11: don't throw from the reverselock destructor (#1421)
 - [`b40f8f333`] Rename bitcoinconsensus library to injexconsensus. (#1432)

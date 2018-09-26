@@ -25,8 +25,8 @@ Build-Depends: debhelper,
  python
 Standards-Version: 3.9.2
 Homepage: https://www.injex.org/
-Vcs-Git: git://github.com/injexcoin/injex.git
-Vcs-Browser: https://github.com/injexcoin/injex
+Vcs-Git: git://github.com/InjexCore/injex.git
+Vcs-Browser: https://github.com/InjexCore/injex
 
 Package: injexd
 Architecture: any
